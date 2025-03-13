@@ -8,7 +8,7 @@ Clone this repository to your local machine
 Follow instructions in the README file in the TripJournalAPI folder to start the API server with Docker
 Open the TripJournal_Starter project in Xcode
 
-##Dependencies
+## Dependencies
 
 [Docker](https://docs.docker.com/desktop/)
 Xcode 15+, iOS 17+, MacOS Ventura or later
